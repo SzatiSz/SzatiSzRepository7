@@ -1,0 +1,2 @@
+# SzatiSzRepository7
+Hello, everybody — today I have a website inspired by my biggest passion (bigger than programming — don’t tell anyone :). That passion is dancing. I created this website using only HTML5 and CSS3, so no JS means no problems :). I also added links and used one ad from the internet. This website was created using a block-based system, using divs. The next one, under the heading “SzatiSzRepository8”, will be very similar, but created using a table. Just try it! Have a nice day, guys!
